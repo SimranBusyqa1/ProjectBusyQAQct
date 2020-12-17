@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+  </reporter-output>
+  <suite name="LoginTCSuite" duration-ms="25644" started-at="2020-12-17T00:47:16Z" finished-at="2020-12-17T00:47:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25644" started-at="2020-12-17T00:47:16Z" finished-at="2020-12-17T00:47:41Z">
+      <class name="com.busyqa.batch16.uitests.testCases.TC01_LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@5477a1ca]" name="setUp" is-config="true" duration-ms="12490" started-at="2020-12-17T06:17:16Z" finished-at="2020-12-17T06:17:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest01()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@5477a1ca]" name="loginTest01" duration-ms="3649" started-at="2020-12-17T06:17:28Z" finished-at="2020-12-17T06:17:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest01 -->
+        <test-method status="PASS" signature="loginTest02()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@5477a1ca]" name="loginTest02" duration-ms="1676" started-at="2020-12-17T06:17:32Z" finished-at="2020-12-17T06:17:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest02 -->
+        <test-method status="PASS" signature="loginTest03()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@5477a1ca]" name="loginTest03" duration-ms="1538" started-at="2020-12-17T06:17:33Z" finished-at="2020-12-17T06:17:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest03 -->
+        <test-method status="PASS" signature="loginTest04()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@5477a1ca]" name="loginTest04" duration-ms="6017" started-at="2020-12-17T06:17:35Z" finished-at="2020-12-17T06:17:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest04 -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@5477a1ca]" name="endTest" is-config="true" duration-ms="235" started-at="2020-12-17T06:17:41Z" finished-at="2020-12-17T06:17:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.busyqa.batch16.uitests.testCases.TC01_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- LoginTCSuite -->
+</testng-results>

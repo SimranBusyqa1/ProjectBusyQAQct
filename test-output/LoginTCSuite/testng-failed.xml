@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [LoginTCSuite]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="env" value="qa"/>
+  <test name="Test(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="env" value="qa"/>
+    <classes>
+      <class name="com.busyqa.batch16.uitests.testCases.TC01_LoginTest">
+        <methods>
+          <include name="failed_TC1"/>
+          <include name="setUp"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.busyqa.batch16.uitests.testCases.TC01_LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [LoginTCSuite] -->

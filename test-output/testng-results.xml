@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="5" failed="0" total="5" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="391" started-at="2020-12-17T00:39:24Z" finished-at="2020-12-17T00:39:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="391" started-at="2020-12-17T00:39:24Z" finished-at="2020-12-17T00:39:24Z">
+      <class name="com.busyqa.batch16.uitests.testCases.TC01_LoginTest">
+        <test-method status="FAIL" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-12-17T06:09:24Z" finished-at="2020-12-17T06:09:24Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'env' is required by @Configuration on method setUp but has not been marked @Optional or defined
+in C:\Users\simra\AppData\Local\Temp\testng-eclipse--432931133\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'env' is required by @Configuration on method setUp but has not been marked @Optional or defined
+in C:\Users\simra\AppData\Local\Temp\testng-eclipse--432931133\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:155)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:358)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:86)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:199)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:641)
+	at org.testng.TestRunner.run(TestRunner.java:609)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="failed_TC1()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@6e1ec318]" name="failed_TC1" duration-ms="286" started-at="2020-12-17T06:09:24Z" finished-at="2020-12-17T06:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failed_TC1 -->
+        <test-method status="SKIP" signature="loginTest01()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@6e1ec318]" name="loginTest01" duration-ms="2" started-at="2020-12-17T06:09:24Z" finished-at="2020-12-17T06:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest01 -->
+        <test-method status="SKIP" signature="loginTest02()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@6e1ec318]" name="loginTest02" duration-ms="4" started-at="2020-12-17T06:09:24Z" finished-at="2020-12-17T06:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest02 -->
+        <test-method status="SKIP" signature="loginTest03()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@6e1ec318]" name="loginTest03" duration-ms="2" started-at="2020-12-17T06:09:24Z" finished-at="2020-12-17T06:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest03 -->
+        <test-method status="SKIP" signature="loginTest04()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@6e1ec318]" name="loginTest04" duration-ms="3" started-at="2020-12-17T06:09:24Z" finished-at="2020-12-17T06:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest04 -->
+        <test-method status="SKIP" signature="endTest()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@6e1ec318]" name="endTest" is-config="true" duration-ms="0" started-at="2020-12-17T06:09:24Z" finished-at="2020-12-17T06:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.busyqa.batch16.uitests.testCases.TC01_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

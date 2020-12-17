@@ -1,0 +1,464 @@
+2020-07-30 05:04:37,902 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 05:04:37,902 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 05:04:37,908 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 05:04:37,908 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 05:04:41,248 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 05:04:41,248 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 05:52:21,633 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 05:52:21,633 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 05:52:21,641 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 05:52:21,641 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 05:52:23,513 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 05:52:23,513 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 05:53:05,871 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 05:53:05,871 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 05:53:05,875 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 05:53:05,875 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 05:53:07,706 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 05:53:07,706 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 06:15:08,883 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 06:15:08,883 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 06:15:08,897 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 06:15:08,897 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 06:15:35,719 - com.busyqa.batch16.uitest.pageClasses.LoginPage1 -INFO - Time taken in seconds Without cache 24
+2020-07-30 06:15:35,719 [main] INFO com.busyqa.batch16.uitest.pageClasses.LoginPage1 - Time taken in seconds Without cache 24
+2020-07-30 06:15:47,285 - com.busyqa.batch16.uitest.pageClasses.LoginPage1 -INFO - Time taken in seconds With cache 11
+2020-07-30 06:15:47,285 [main] INFO com.busyqa.batch16.uitest.pageClasses.LoginPage1 - Time taken in seconds With cache 11
+2020-07-30 06:15:47,286 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 06:15:47,286 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 06:36:31,056 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 06:36:31,056 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 06:36:31,073 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 06:36:31,073 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 06:36:57,258 - com.busyqa.batch16.uitest.pageClasses.LoginPage1 -INFO - Time taken in seconds Without cache 23
+2020-07-30 06:36:57,258 [main] INFO com.busyqa.batch16.uitest.pageClasses.LoginPage1 - Time taken in seconds Without cache 23
+2020-07-30 06:37:09,935 - com.busyqa.batch16.uitest.pageClasses.LoginPage1 -INFO - Time taken in seconds With cache 12
+2020-07-30 06:37:09,935 [main] INFO com.busyqa.batch16.uitest.pageClasses.LoginPage1 - Time taken in seconds With cache 12
+2020-07-30 06:37:09,936 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 06:37:09,936 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:17:46,782 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 17:17:46,782 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 17:17:46,789 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 17:17:46,789 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 17:17:49,129 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:17:49,129 [main] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:17:50,494 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-30 17:17:50,494 [main] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - User name for the TC 2 is: admin123
+2020-07-30 17:17:50,495 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-30 17:17:50,495 [main] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-07-30 17:17:52,920 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - Invalid credentials
+2020-07-30 17:17:52,920 [main] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - Invalid credentials
+2020-07-30 17:17:53,658 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-30 17:17:53,658 [main] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - User name for the TC 3 is: admin12
+2020-07-30 17:17:53,659 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-30 17:17:53,659 [main] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-07-30 17:17:55,867 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - Invalid credentials
+2020-07-30 17:17:55,867 [main] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - Invalid credentials
+2020-07-30 17:17:56,692 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:17:56,692 [main] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - User name for the TC 4 is: Admin
+2020-07-30 17:17:56,693 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:17:56,693 [main] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Password for the TC 4 is: admin123
+2020-07-30 17:18:03,649 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Success
+2020-07-30 17:18:03,649 [main] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Success
+2020-07-30 17:21:11,280 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 17:21:11,280 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 17:21:11,286 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 17:21:11,286 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 17:21:13,581 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:21:13,581 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:21:14,451 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-30 17:21:14,451 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - User name for the TC 2 is: admin123
+2020-07-30 17:21:14,453 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-30 17:21:14,453 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-07-30 17:21:16,185 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - Invalid credentials
+2020-07-30 17:21:16,185 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - Invalid credentials
+2020-07-30 17:21:16,935 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-30 17:21:16,935 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - User name for the TC 3 is: admin12
+2020-07-30 17:21:16,936 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-30 17:21:16,936 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-07-30 17:21:18,531 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - Invalid credentials
+2020-07-30 17:21:18,531 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - Invalid credentials
+2020-07-30 17:21:19,236 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:21:19,236 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - User name for the TC 4 is: Admin
+2020-07-30 17:21:19,236 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:21:19,236 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Password for the TC 4 is: admin123
+2020-07-30 17:21:28,144 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Success
+2020-07-30 17:21:28,144 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Success
+2020-07-30 17:27:25,391 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 17:27:25,391 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 17:27:25,399 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 17:27:25,399 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 17:27:28,209 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:27:28,209 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:27:29,344 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-30 17:27:29,344 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - User name for the TC 2 is: admin123
+2020-07-30 17:27:29,345 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-30 17:27:29,345 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-07-30 17:27:31,514 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - Invalid credentials
+2020-07-30 17:27:31,514 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - Invalid credentials
+2020-07-30 17:27:32,354 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-30 17:27:32,354 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - User name for the TC 3 is: admin12
+2020-07-30 17:27:32,354 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-30 17:27:32,354 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-07-30 17:27:34,240 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - Invalid credentials
+2020-07-30 17:27:34,240 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - Invalid credentials
+2020-07-30 17:27:34,886 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:27:34,886 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - User name for the TC 4 is: Admin
+2020-07-30 17:27:34,886 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:27:34,886 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Password for the TC 4 is: admin123
+2020-07-30 17:27:45,165 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Success
+2020-07-30 17:27:45,165 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Success
+2020-07-30 17:29:58,515 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:29:58,515 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - User name for the TC 4 is: Admin
+2020-07-30 17:29:58,521 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:29:58,521 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Password for the TC 4 is: admin123
+2020-07-30 17:30:05,539 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Success
+2020-07-30 17:30:05,539 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Success
+2020-07-30 17:30:45,292 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:30:45,292 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - User name for the TC 4 is: Admin
+2020-07-30 17:30:45,298 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:30:45,298 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Password for the TC 4 is: admin123
+2020-07-30 17:30:52,910 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Success
+2020-07-30 17:30:52,910 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Success
+2020-07-30 17:40:02,454 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:40:02,454 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - User name for the TC 4 is: Admin
+2020-07-30 17:40:02,459 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:40:02,459 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Password for the TC 4 is: admin123
+2020-07-30 17:40:09,276 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Success
+2020-07-30 17:40:09,276 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Success
+2020-07-30 17:42:55,142 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 17:42:55,142 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 17:42:55,148 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 17:42:55,148 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 17:42:57,150 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:42:57,150 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:42:57,982 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-30 17:42:57,982 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - User name for the TC 2 is: admin123
+2020-07-30 17:42:57,983 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-30 17:42:57,983 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-07-30 17:42:59,665 - com.busyqa.batch16.uitests.testCases.TC02_LoginTest -INFO - Invalid credentials
+2020-07-30 17:42:59,665 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC02_LoginTest - Invalid credentials
+2020-07-30 17:43:00,407 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-30 17:43:00,407 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - User name for the TC 3 is: admin12
+2020-07-30 17:43:00,407 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-30 17:43:00,407 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-07-30 17:43:01,896 - com.busyqa.batch16.uitests.testCases.TC03_LoginTest -INFO - Invalid credentials
+2020-07-30 17:43:01,896 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC03_LoginTest - Invalid credentials
+2020-07-30 17:43:02,679 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:43:02,679 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - User name for the TC 4 is: Admin
+2020-07-30 17:43:02,680 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:43:02,680 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Password for the TC 4 is: admin123
+2020-07-30 17:43:09,121 - com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest -INFO - Success
+2020-07-30 17:43:09,121 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC04_LoginSuccessTest - Success
+2020-07-30 17:46:30,695 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 17:46:30,695 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 17:46:30,705 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 17:46:30,705 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 17:46:32,903 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:46:32,903 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:46:33,682 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-30 17:46:33,682 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-07-30 17:46:33,683 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-30 17:46:33,683 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-07-30 17:46:34,842 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:46:34,842 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:46:35,553 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-30 17:46:35,553 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-07-30 17:46:35,554 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-30 17:46:35,554 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-07-30 17:46:36,792 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:46:36,792 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:46:37,483 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:46:37,483 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-07-30 17:46:37,485 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:46:37,485 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-07-30 17:46:44,583 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-07-30 17:46:44,583 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-07-30 17:47:23,416 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 17:47:23,416 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 17:47:23,424 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 17:47:23,424 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 17:47:25,482 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:47:25,482 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:47:26,449 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-30 17:47:26,449 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-07-30 17:47:26,450 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-30 17:47:26,450 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-07-30 17:47:27,651 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:47:27,651 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:47:28,431 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-30 17:47:28,431 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-07-30 17:47:28,432 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-30 17:47:28,432 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-07-30 17:47:29,530 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:47:29,530 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:47:30,242 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:47:30,242 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-07-30 17:47:30,248 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:47:30,248 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-07-30 17:47:37,385 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-07-30 17:47:37,385 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-07-30 17:54:13,388 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-30 17:54:13,388 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-30 17:54:13,395 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-30 17:54:13,395 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-30 17:54:15,370 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:54:15,370 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:54:16,238 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-30 17:54:16,238 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-07-30 17:54:16,239 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-30 17:54:16,239 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-07-30 17:54:17,309 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:54:17,309 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:54:17,967 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-30 17:54:17,967 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-07-30 17:54:17,969 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-30 17:54:17,969 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-07-30 17:54:19,281 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-30 17:54:19,281 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-30 17:54:20,034 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-07-30 17:54:20,034 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-07-30 17:54:20,035 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-07-30 17:54:20,035 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-07-30 17:54:29,555 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-07-30 17:54:29,555 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-07-31 05:17:16,172 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-31 05:17:16,172 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-31 05:17:16,229 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-31 05:17:16,229 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-31 05:17:18,530 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:17:18,530 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:17:19,468 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-31 05:17:19,468 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-07-31 05:17:19,469 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-31 05:17:19,469 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-07-31 05:17:20,584 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:17:20,584 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:17:21,294 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-31 05:17:21,294 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-07-31 05:17:21,295 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-31 05:17:21,295 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-07-31 05:17:22,499 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:17:22,499 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:17:23,137 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-07-31 05:17:23,137 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-07-31 05:17:23,137 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-07-31 05:17:23,137 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-07-31 05:17:29,067 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-07-31 05:17:29,067 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-07-31 05:23:38,665 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-31 05:23:38,665 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-31 05:23:38,683 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-31 05:23:38,683 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-31 05:23:40,797 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:23:40,797 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:23:41,588 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-31 05:23:41,588 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-07-31 05:23:41,590 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-31 05:23:41,590 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-07-31 05:23:42,742 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:23:42,742 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:23:43,410 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-31 05:23:43,410 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-07-31 05:23:43,410 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-31 05:23:43,410 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-07-31 05:23:44,603 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:23:44,603 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:23:45,235 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-07-31 05:23:45,235 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-07-31 05:23:45,235 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-07-31 05:23:45,235 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-07-31 05:23:51,488 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-07-31 05:23:51,488 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-07-31 05:36:20,771 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-31 05:36:20,771 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-31 05:36:20,776 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-31 05:36:20,776 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-31 05:36:22,661 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:36:22,661 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:36:23,406 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-31 05:36:23,406 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-07-31 05:36:23,407 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-31 05:36:23,407 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-07-31 05:36:24,507 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:36:24,507 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:36:25,152 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-31 05:36:25,152 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-07-31 05:36:25,153 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-31 05:36:25,153 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-07-31 05:36:26,247 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:36:26,247 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:36:26,917 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-07-31 05:36:26,917 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-07-31 05:36:26,917 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-07-31 05:36:26,917 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-07-31 05:36:33,268 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-07-31 05:36:33,268 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-07-31 05:42:52,283 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-31 05:42:52,283 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-31 05:42:52,306 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-31 05:42:52,306 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-31 05:42:54,561 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:42:54,561 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:42:55,625 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-31 05:42:55,625 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-07-31 05:42:55,630 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-31 05:42:55,630 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-07-31 05:42:56,925 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:42:56,925 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:42:57,624 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-31 05:42:57,624 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-07-31 05:42:57,627 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-31 05:42:57,627 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-07-31 05:42:58,825 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 05:42:58,825 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 05:42:59,520 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-07-31 05:42:59,520 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-07-31 05:42:59,525 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-07-31 05:42:59,525 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-07-31 05:43:05,343 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-07-31 05:43:05,343 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-07-31 06:24:31,235 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-07-31 06:24:31,235 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-07-31 06:24:31,257 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-07-31 06:24:31,257 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-07-31 06:24:33,505 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 06:24:33,505 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 06:24:39,823 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-07-31 06:24:39,823 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-07-31 06:24:39,824 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-07-31 06:24:39,824 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-07-31 06:24:41,042 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 06:24:41,042 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 06:24:41,875 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-07-31 06:24:41,875 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-07-31 06:24:41,876 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-07-31 06:24:41,876 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-07-31 06:24:43,157 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-07-31 06:24:43,157 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-07-31 06:24:43,968 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-07-31 06:24:43,968 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-07-31 06:24:43,969 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-07-31 06:24:43,969 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-07-31 06:24:49,637 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-07-31 06:24:49,637 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-12-17 05:58:38,165 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-12-17 05:58:38,165 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-12-17 05:58:38,172 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-12-17 05:58:38,172 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-12-17 05:58:40,177 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 05:58:40,177 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 05:58:41,259 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-12-17 05:58:41,259 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-12-17 05:58:41,260 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-12-17 05:58:41,260 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-12-17 05:58:42,281 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 05:58:42,281 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 05:58:42,935 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-12-17 05:58:42,935 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-12-17 05:58:42,936 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-12-17 05:58:42,936 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-12-17 05:58:43,935 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 05:58:43,935 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 05:58:44,478 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-12-17 05:58:44,478 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-12-17 05:58:44,482 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-12-17 05:58:44,482 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-12-17 05:58:49,538 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-12-17 05:58:49,538 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-12-17 06:11:07,103 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-12-17 06:11:07,103 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-12-17 06:11:07,107 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-12-17 06:11:07,107 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-12-17 06:11:08,803 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:11:08,803 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:11:09,710 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-12-17 06:11:09,710 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-12-17 06:11:09,711 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-12-17 06:11:09,711 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-12-17 06:11:10,834 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:11:10,834 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:11:11,519 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-12-17 06:11:11,519 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-12-17 06:11:11,520 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-12-17 06:11:11,520 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-12-17 06:11:12,595 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:11:12,595 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:11:13,324 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-12-17 06:11:13,324 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-12-17 06:11:13,324 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-12-17 06:11:13,324 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-12-17 06:11:18,149 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-12-17 06:11:18,149 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-12-17 06:13:18,829 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-12-17 06:13:18,829 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-12-17 06:13:18,835 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-12-17 06:13:18,835 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-12-17 06:13:20,737 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:13:20,737 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:13:21,547 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-12-17 06:13:21,547 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-12-17 06:13:21,548 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-12-17 06:13:21,548 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-12-17 06:13:22,638 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:13:22,638 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:13:23,328 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-12-17 06:13:23,328 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-12-17 06:13:23,329 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-12-17 06:13:23,329 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-12-17 06:13:24,468 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:13:24,468 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:13:25,149 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-12-17 06:13:25,149 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-12-17 06:13:25,150 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-12-17 06:13:25,150 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-12-17 06:13:30,483 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-12-17 06:13:30,483 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-12-17 06:16:32,885 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-12-17 06:16:32,885 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-12-17 06:16:32,895 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-12-17 06:16:32,895 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-12-17 06:16:34,578 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:16:34,578 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:16:35,435 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-12-17 06:16:35,435 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-12-17 06:16:35,438 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-12-17 06:16:35,438 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-12-17 06:16:36,518 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:16:36,518 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:16:37,171 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-12-17 06:16:37,171 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-12-17 06:16:37,175 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-12-17 06:16:37,175 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-12-17 06:16:38,228 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:16:38,228 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:16:38,930 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-12-17 06:16:38,930 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-12-17 06:16:38,944 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-12-17 06:16:38,944 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-12-17 06:16:43,810 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-12-17 06:16:43,810 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
+2020-12-17 06:17:29,653 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 1 is: admin
+2020-12-17 06:17:29,653 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 1 is: admin
+2020-12-17 06:17:29,705 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-12-17 06:17:29,705 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-12-17 06:17:31,662 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:17:31,662 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:17:32,319 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 2 is: admin123
+2020-12-17 06:17:32,319 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 2 is: admin123
+2020-12-17 06:17:32,323 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 2 is: admin
+2020-12-17 06:17:32,323 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 2 is: admin
+2020-12-17 06:17:33,427 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:17:33,427 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:17:33,982 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 3 is: admin12
+2020-12-17 06:17:33,982 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 3 is: admin12
+2020-12-17 06:17:33,985 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-12-17 06:17:33,985 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 3 is: admin123
+2020-12-17 06:17:35,005 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Invalid credentials
+2020-12-17 06:17:35,005 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Invalid credentials
+2020-12-17 06:17:35,544 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - User name for the TC 4 is: Admin
+2020-12-17 06:17:35,544 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - User name for the TC 4 is: Admin
+2020-12-17 06:17:35,547 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-12-17 06:17:35,547 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Password for the TC 4 is: admin123
+2020-12-17 06:17:41,015 - com.busyqa.batch16.uitests.testCases.TC01_LoginTest -INFO - Success
+2020-12-17 06:17:41,015 [TestNG] INFO com.busyqa.batch16.uitests.testCases.TC01_LoginTest - Success
